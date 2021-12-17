@@ -17,5 +17,5 @@ In my spare time, I love learning new technologies. Besides programming, I enjoy
 <code><img height='50' src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg'></code>
 <code><img height='50' src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg'></code>
 
-![Imran's github stats](https://github-readme-stats.vercel.app/api?username=supermanimmy&show_icons=true&theme=tokyonight)
-![Imran's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supermanimmy)
+![Imran's github stats](https://github-readme-stats.vercel.app/api?username=supermanimmy&show_icons=true&theme=tokyonight)<br>
+![Imran's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supermanimmy&theme=tokyonight)
