@@ -3,8 +3,6 @@
 
 Hi, My name is Imran Shah. I am a Data Science & Computing student from the University of Birkbeck, London.
 
-I'm a proficient data scientist. Here's a few examples of things i've worked on:
-
 In my spare time, I love learning new technologies. Besides programming, I enjoy video games and working out.
 
 **Language and Tools:** 
