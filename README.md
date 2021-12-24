@@ -5,6 +5,13 @@ Hi, My name is Imran Shah. I am a Data Science & Computing student from the Univ
 
 In my spare time, I love learning new technologies. Besides programming, I enjoy video games and working out.
 
+Currently focusing on:
+*  House-Prices-Advanced-Regression-Techniques Repo.
+*   [House-Prices-Advanced-Regression-Techniques Repo.](https://github.com/supermanimmy/House-Prices-Advanced-Regression-Techniques")
+*  Microsoft Azure AZ-900 Certification.
+*  Salesforce Admin Certification.
+*  Data Engineering Bootcamp with QA Ltd.
+
 **Language and Tools:** 
 
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
