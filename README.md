@@ -1,7 +1,7 @@
 ## Hi there, I'm Imran Shah 👋
 <br/>
 
-Hi, My name is Imran Shah. I am a Data Science & Computing student from the University of Birkbeck, London.
+Hi, My name is Imran. I am a Data Science & Computing student from the University of Birkbeck, London.
 
 Currently focusing on:
 *   [House-Prices-Advanced-Regression-Techniques Repo.](https://github.com/supermanimmy/House-Prices-Advanced-Regression-Techniques)
