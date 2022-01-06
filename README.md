@@ -1,13 +1,11 @@
 ## Hi there, I'm Imran Shah 👋
 <br/>
 
-Hi, My name is Imran. I am a Data Science & Computing student from the University of Birkbeck, London.
+Hi, my name is Imran. I am a Data Science & Computing student from the University of Birkbeck, London.
 
 Currently focusing on:
 *   [House-Prices-Advanced-Regression-Techniques Repo.](https://github.com/supermanimmy/House-Prices-Advanced-Regression-Techniques)
-*  Microsoft Azure AZ-900 Certification.
-*  Salesforce Admin Certification.
-*  Data Engineering Bootcamp with QA Ltd.
+*   [Useful Python Functions for Data Science](https://github.com/supermanimmy/Data-Science-Functions)
 
 **Language and Tools:** 
 
