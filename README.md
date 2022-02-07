@@ -6,6 +6,7 @@ Hi, my name is Imran. I am a Data Science & Computing student from the Universit
 Currently focusing on:
 *   [House-Prices-Advanced-Regression-Techniques Repo.](https://github.com/supermanimmy/House-Prices-Advanced-Regression-Techniques)
 *   [Useful Python Functions for Data Science](https://github.com/supermanimmy/Data-Science-Functions)
+*   [Loan-Dataset-Exploration](https://github.com/supermanimmy/loan-dataset-exploration)
 
 **Language and Tools:** 
 
