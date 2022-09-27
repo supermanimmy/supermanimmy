@@ -1,7 +1,3 @@
-## Hi there, I'm Imran Shah 👋
-<br/>
-
-Hi, my name is Imran. I am a Data Science & Computing student from the University of Birkbeck, London.
 
 Currently focusing on:
 *   [Useful Python Functions for Data Science](https://github.com/supermanimmy/Data-Science-Functions)
